@@ -1,0 +1,41 @@
+body {
+  background-color: #0b0b0b;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.box {
+  width: 85%;
+  margin: auto;
+  padding: 25px;
+}
+
+h1 {
+  color: #00ffd5;
+}
+
+.tagline {
+  color: #bbbbbb;
+  font-weight: bold;
+}
+
+.nav a {
+  margin-right: 15px;
+  color: #00ffd5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  margin: 25px 0;
+  border: 1px solid #333;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
